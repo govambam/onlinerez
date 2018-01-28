@@ -1,4 +1,4 @@
-••••••••••••••••# Static Resume Website + Twilio App
+# Static Resume Website + Twilio App
 
 Here are a few notes/steps on how to get your application (pun intended) noticed at Twilio. 
 
