@@ -1,4 +1,4 @@
-# Static Resume Website + Twilio App
+••••••••••••••••# Static Resume Website + Twilio App
 
 Here are a few notes/steps on how to get your application (pun intended) noticed at Twilio. 
 
@@ -84,7 +84,7 @@ The `To Number` should be your personal cell phone number with your country code
 
 And the Message should be whatever text you want to appear when someone views your resume website. We're going with `Hey-- you're doing great!`. 
 
-Continue and then test. You should have just received a text from Twilio reading the custom message you created. If everything looks good, click Finish. 
+Continue and then test. You should have just received a text from Twilio reading the custom message you created. If everything looks good, click Finish. Go to your dahsboard and rename the Zap to `First Zap`.  
 
 
 
